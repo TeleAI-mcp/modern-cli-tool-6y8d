@@ -1,2 +1,3 @@
-# modern-cli-tool-6y8d
-A command-line tool for modern development workflows
+# Modern Cli Tool 6Y8D
+
+A command-line tool for modern development workflows.
